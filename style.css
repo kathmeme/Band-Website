@@ -1,0 +1,88 @@
+.logo {
+  width: 300px;
+}
+.custom-nav {
+  width: 100%;
+  font-family: One Slice;
+}
+.custom-nav a {
+  color: #fff !important;
+}
+.news {
+  font-family: Angel Wish;
+  color: black;
+}
+.video {
+  width: 100%;
+  aspect-ratio: 16/9;
+}
+.urls {
+  text-align: center;
+  font-family: "Times New Roman", Times, serif;
+}
+
+.stream {
+  font-family: Angel Wish;
+  color: black;
+}
+.about {
+  font-family: One Slice;
+}
+.stream {
+  width: 600px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.insta {
+  display: flex;
+  align-items: center;
+  font-family: "Times New Roman", Times, serif;
+}
+
+.twit {
+  display: flex;
+  align-items: center;
+  font-family: "Times New Roman", Times, serif;
+}
+
+.sc {
+  display: flex;
+  align-items: center;
+  font-family: "Times New Roman", Times, serif;
+}
+
+.centered {
+  text-align: center;
+}
+
+.traumazine {
+  width: 300px;
+}
+
+.tickets {
+  font-family: Angel Wish;
+}
+
+.concerts {
+  font-family: "Times New Roman", Times, serif;
+}
+
+.responsive-video {
+  width: 90%;
+  aspect-ratio: 16/9;
+}
+
+@media screen and (max-width: 600px) {
+  .insta img {
+    width: 100px;
+  }
+  .twit img {
+    width: 100px;
+  }
+  .sc img {
+    width: 100px;
+  }
+}
